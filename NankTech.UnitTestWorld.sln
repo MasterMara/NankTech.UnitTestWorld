@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.SimpleCalculator",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.SimpleCalculator.Tests", "tests\NankTech.SimpleCalculator.Tests\NankTech.SimpleCalculator.Tests.csproj", "{2C64DB71-ABED-4550-A9E5-4A9271470993}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.SimpleLibrary.API", "projects\NankTech.SimpleLibrary.API\NankTech.SimpleLibrary.API.csproj", "{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.SimpleLibrary.API.Tests", "tests\NankTech.SimpleLibrary.API.Tests\NankTech.SimpleLibrary.API.Tests.csproj", "{0939D1FD-9832-44A2-90FC-04A32B21445B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +20,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2B3E0243-5767-47C8-83E5-685A6FCC57B3} = {CDF492B4-83FF-4D3B-9FBE-557DFA27C8B7}
 		{2C64DB71-ABED-4550-A9E5-4A9271470993} = {85246D6D-3C7B-4093-9EDB-D5493825C4A1}
+		{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0} = {CDF492B4-83FF-4D3B-9FBE-557DFA27C8B7}
+		{0939D1FD-9832-44A2-90FC-04A32B21445B} = {85246D6D-3C7B-4093-9EDB-D5493825C4A1}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2B3E0243-5767-47C8-83E5-685A6FCC57B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -26,5 +32,13 @@ Global
 		{2C64DB71-ABED-4550-A9E5-4A9271470993}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C64DB71-ABED-4550-A9E5-4A9271470993}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C64DB71-ABED-4550-A9E5-4A9271470993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0939D1FD-9832-44A2-90FC-04A32B21445B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0939D1FD-9832-44A2-90FC-04A32B21445B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0939D1FD-9832-44A2-90FC-04A32B21445B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0939D1FD-9832-44A2-90FC-04A32B21445B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
