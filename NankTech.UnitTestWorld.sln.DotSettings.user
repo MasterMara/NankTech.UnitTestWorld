@@ -7,5 +7,6 @@
     &lt;TestId&gt;xUnit::C7308133-40B7-4E47-9D7B-525BB95A4601::net6.0::NankTech.Simple.Employee.Mock.Api.Test.EmployeeServiceUnitTests.Test1&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C7308133-40B7-4E47-9D7B-525BB95A4601::net6.0::NankTech.Simple.Employee.Mock.Api.Test.EmployeeServiceUnitTests.GetEmployeeById_Should_Return_Single_Employee_When_Coming_Exist_Employee_Id&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C7308133-40B7-4E47-9D7B-525BB95A4601::net6.0::NankTech.Simple.Employee.Mock.Api.Test.EmployeeServiceUnitTests.GetEmployeeDetails_Should_Return_All_Employee_Detail_When_Coming_Exist_Employee_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2C64DB71-ABED-4550-A9E5-4A9271470993::net6.0::NankTech.SimpleCalculator.Tests.DateTİmeExtensionsTest.ToPrettyDate_Should_Throw_Argument_Null_Exception_When_Culture_Is_Null&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
