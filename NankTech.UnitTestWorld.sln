@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.SimpleLibrary.API.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.Simple.Employee.Mock.Api", "projects\NankTech.Simple.Employee.Mock.Api\NankTech.Simple.Employee.Mock.Api.csproj", "{00A19F98-97B9-463D-9AE3-472A6C2EE7B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NankTech.Simple.Employee.Mock.Api.Test", "tests\NankTech.Simple.Employee.Mock.Api.Test\NankTech.Simple.Employee.Mock.Api.Test.csproj", "{C7308133-40B7-4E47-9D7B-525BB95A4601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,7 @@ Global
 		{1E5A8A3D-6EA6-4A7D-9352-B74AC4D151D0} = {CDF492B4-83FF-4D3B-9FBE-557DFA27C8B7}
 		{0939D1FD-9832-44A2-90FC-04A32B21445B} = {85246D6D-3C7B-4093-9EDB-D5493825C4A1}
 		{00A19F98-97B9-463D-9AE3-472A6C2EE7B5} = {CDF492B4-83FF-4D3B-9FBE-557DFA27C8B7}
+		{C7308133-40B7-4E47-9D7B-525BB95A4601} = {85246D6D-3C7B-4093-9EDB-D5493825C4A1}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2B3E0243-5767-47C8-83E5-685A6FCC57B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -47,5 +50,9 @@ Global
 		{00A19F98-97B9-463D-9AE3-472A6C2EE7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A19F98-97B9-463D-9AE3-472A6C2EE7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A19F98-97B9-463D-9AE3-472A6C2EE7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7308133-40B7-4E47-9D7B-525BB95A4601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7308133-40B7-4E47-9D7B-525BB95A4601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7308133-40B7-4E47-9D7B-525BB95A4601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7308133-40B7-4E47-9D7B-525BB95A4601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

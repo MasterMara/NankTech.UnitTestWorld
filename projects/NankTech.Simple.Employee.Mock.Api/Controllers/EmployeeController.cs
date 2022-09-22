@@ -26,13 +26,13 @@ namespace NankTech.Simple.Employee.Mock.Api.Controllers
         [HttpGet(nameof(GetEmployeeById))]
         public async Task<string> GetEmployeeById(int EmpID)
         {
-            var result = await _employeeService.GetEmployeebyId(EmpID);
+            var result = await _employeeService.GetEmployeeById(EmpID);
             return result;
         }
-        [HttpGet(nameof(GetEmployeeDetails))]
-        public async Task<Model.Employee> GetEmployeeDetails(int EmpID)
+        [HttpGet(nameof(GetEmployeeDetailsById))]
+        public async Task<Model.Employee> GetEmployeeDetailsById(int EmpID)
         {
-            var result = await _employeeService.GetEmployeeDetails(EmpID);
+            var result = await _employeeService.GetEmployeeDetailsById(EmpID);
             return result;
         }
 
