@@ -11,7 +11,7 @@ using NankTech.Simple.Employee.Mock.Api.Model;
 namespace NankTech.Simple.Employee.Mock.Api.Migrations
 {
     [DbContext(typeof(AppDbContextx))]
-    [Migration("20220919150422_InitialCreate")]
+    [Migration("20220922075621_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
