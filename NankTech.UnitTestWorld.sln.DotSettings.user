@@ -1,12 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=da8f0735_002Df20c_002D4c7a_002Da3a1_002D1bbd4fa46fb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Be_able_to_add_two_numbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::2C64DB71-ABED-4550-A9E5-4A9271470993::net6.0::NankTech.SimpleCalculator.Tests.SimpleCalculatorTest.Calculator_Should_Addition_When_Two_Integer_Number_Comes&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::0939D1FD-9832-44A2-90FC-04A32B21445B::net6.0::NankTech.SimpleLibrary.API.Tests.BooksControllerTests.Get_Should_Return_All_Books_When_Request_Comes&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::0939D1FD-9832-44A2-90FC-04A32B21445B::net6.0::NankTech.SimpleLibrary.API.Tests.BooksControllerTests&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C7308133-40B7-4E47-9D7B-525BB95A4601::net6.0::NankTech.Simple.Employee.Mock.Api.Test.EmployeeServiceUnitTests.Test1&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C7308133-40B7-4E47-9D7B-525BB95A4601::net6.0::NankTech.Simple.Employee.Mock.Api.Test.EmployeeServiceUnitTests.GetEmployeeById_Should_Return_Single_Employee_When_Coming_Exist_Employee_Id&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C7308133-40B7-4E47-9D7B-525BB95A4601::net6.0::NankTech.Simple.Employee.Mock.Api.Test.EmployeeServiceUnitTests.GetEmployeeDetails_Should_Return_All_Employee_Detail_When_Coming_Exist_Employee_Id&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::2C64DB71-ABED-4550-A9E5-4A9271470993::net6.0::NankTech.SimpleCalculator.Tests.DateTİmeExtensionsTest.ToPrettyDate_Should_Throw_Argument_Null_Exception_When_Culture_Is_Null&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;Solution /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

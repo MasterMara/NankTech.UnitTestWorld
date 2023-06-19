@@ -180,7 +180,6 @@ public class BooksControllerTests
         var actualResponse = _booksController.Post(myNewBook);
         var item = actualResponse as CreatedAtActionResult;
         var myBook = item?.Value as Book;
-
         //Assert
         Assert.Equal(myNewBook.Id, myBook?.Id);
         Assert.Equal(myNewBook.Author, myBook?.Author);
